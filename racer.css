@@ -1,0 +1,9 @@
+.car {
+    width: 100px;
+    display: block;
+}
+
+#container{
+  width:960px;
+  margin:auto;
+}
